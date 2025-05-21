@@ -22,8 +22,8 @@
       <option value="$PROJECT_DIR$/Assets/Project/Scripts/Switch/MultimeterController.cs" />
       <option value="$PROJECT_DIR$/Assets/Project/Scripts/UI/TextView.cs" />
       <option value="$PROJECT_DIR$/Assets/Project/Scripts/Multimetr/PhysicsModel.cs" />
-      <option value="$PROJECT_DIR$/Assets/Project/Scripts/Multimetr/KnobController.cs" />
       <option value="$PROJECT_DIR$/Assets/Project/Scripts/Multimetr/MultimeterController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Project/Scripts/Multimetr/KnobController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2xOc8at7KRzz0tuHBUaKazZF2H1" />

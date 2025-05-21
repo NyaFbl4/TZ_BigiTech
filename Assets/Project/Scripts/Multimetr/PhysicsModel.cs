@@ -4,11 +4,10 @@ namespace Project.Scripts
 {
     public class PhysicsModel
     {
-        //private float _napryajenie; // U-V
-        private float _moshnost; // P
+        private float _moshnost;
         
-        private float _silaToka; // I-A P=A*A*R
-        private float _soprotivlenie; // R-Ω
+        private float _silaToka;
+        private float _soprotivlenie;
         private float _napryajeniePeremennogoToka;
         private float _napryajeniePostoyannogoToka;
         
