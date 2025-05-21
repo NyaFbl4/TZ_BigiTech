@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Public\Repos\!Testovoe\TZ_BigiTech" t="IncludeRecursive">
+    <e p="C:\Users\lomok\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lomok\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_TZ_BigiTech.-1271405094.00" t="ExcludeRecursive" />
+    <e p="D:\PROEKTbI\TZ_BigiTech" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Project" t="Include">
+          <e p="Configs" t="Include" />
           <e p="Resources" t="Include">
             <e p="Models" t="Include">
               <e p="2" t="Include">
@@ -17,7 +20,17 @@
           </e>
           <e p="Scenes" t="Include" />
           <e p="Scripts" t="Include">
-            <e p="SwitchController.cs" t="Include" />
+            <e p="Multimetr" t="Include">
+              <e p="KnobController.cs" t="Include" />
+              <e p="MultimeterController.cs" t="Include" />
+              <e p="MultimeterState.cs" t="Include" />
+              <e p="PhysicsConfig.cs" t="Include" />
+              <e p="PhysicsModel.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="TextView.cs" t="Include" />
+              <e p="ViewsController.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="TextMesh Pro" t="Include">
@@ -115,7 +128,5 @@
       <e p="Temp\Bin" t="ExcludeRecursive" />
       <e p="TZ_BigiTech.sln" t="IncludeFlat" />
     </e>
-    <e p="C:\Users\Никита\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Никита\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_TZ_BigiTech.-175287161.00" t="ExcludeRecursive" />
   </component>
 </project>
